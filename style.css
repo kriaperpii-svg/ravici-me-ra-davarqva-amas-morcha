@@ -1,0 +1,38 @@
+
+.card {
+ background-color: rgba(168, 15, 15, 0.959);   
+ padding: 20px;
+ border: 11px solid black;
+ font-size: 30px;
+ align-content: center;
+ 
+}
+.parent {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 20px;
+flex-direction: column;
+
+}
+.button {
+    background-color: azure;
+}
+a {
+    color: black;
+    background-color: white;
+    border: 10px solid red;
+    padding: 10px;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.button_parent{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
